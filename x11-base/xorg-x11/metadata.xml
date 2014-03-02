@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<herd>x11</herd>
+<longdescription>X11 implementation by X.Org Foundation</longdescription>
+<use>
+<flag name="server">Install X server</flag>
+<flag name="apps">Install X applications</flag>
+<flag name="data">Install X data</flag>
+<flag name="utils">Install X utils</flag>
+<flag name="fonts">Install X fonts</flag>
+</use>
+</pkgmetadata>
